@@ -9,4 +9,4 @@ XAMPP 5.6.3 php 5.6
 Browser chrome/firefox/safari ok.
 Style menggunkanan boostrap framework.
 
-
+migrasi ke metode atau pake framework yang lebih indah
