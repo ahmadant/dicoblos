@@ -10,3 +10,6 @@ Browser chrome/firefox/safari ok.
 Style menggunkanan boostrap framework.
 
 
+To complete some Tinymce plugin input forms in this project, please download here
+http://download.ephox.com/tinymce/community/tinymce_4.6.4_dev.zip?_ga=2.218297439.71353264.1501046403-1665055251.1501046403.
+
